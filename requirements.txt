@@ -20,4 +20,3 @@ jinja2
 imblearn
 -e .
 
-# connection_string = mongodb+srv://jayeshschauhan0810:<db_password>@cluster0.zn29h2w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
