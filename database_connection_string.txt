@@ -1,0 +1,3 @@
+DB_NAME = "Vehicle_Insurance_Project_MLOps"
+COLLECTION_NAME = "Vehicle_Insurance_Project_MLOps-Data"
+CONNECTION_URL = "mongodb+srv://jayeshschauhan0810:UtzdmUnFMSmKSD8W@cluster0.zn29h2w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
