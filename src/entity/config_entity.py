@@ -1,3 +1,5 @@
+# The purpose of this file is define a file path for all the configuration entities(Data Ingestion, Data Validation, Data Transformation, Model Trainer, Model Evaluation, Model Pusher) in the training pipeline.
+
 import os
 from src.constants import *
 from dataclasses import dataclass

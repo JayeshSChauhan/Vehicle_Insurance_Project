@@ -1,5 +1,8 @@
-from dataclasses import dataclass
+# The purpose of the file is to define the artifact entities that will be used in the training pipeline.
+# The file defines data classes (artifact entities) that represent the outputs of various stages in your ML training pipeline.
+# These artifact entities are passed from one stage to the next, helping organize and manage pipeline data cleanly and reliably.
 
+from dataclasses import dataclass
 
 @dataclass
 class DataIngestionArtifact:
