@@ -141,3 +141,17 @@
         > type: Custom TCP > Port range: 5080 > 0.0.0.0/0 > Save rules
 33. Now paste the public ip address on the address bar +:5080 and your app will be launched.
 34. You can also do model training on /training routeṆ
+
+
+
+==========================
+
+
+
+For each and every operation, we will do this steps repeatedly...
+1. Define Constant variables from Constant folder __init__.py file
+2. Set config entity from entity folder config_entity.py file
+3. Set artifact entity from entity folder artifact_entity.py file
+4. Set component according to operation from components folder
+5. Modified pipeline from pipeline folder training_pipeline.py file
+6. Run app.py file(After did all operation) OR demo.py file(After did perticular operation for checking purpose) 
