@@ -155,11 +155,6 @@ pip install -e .
 - Logs are under `logs/`  
 - Check `logs/pipeline.log` for run‑by‑run status.
 
----
-
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more details.
 
 ---
 
