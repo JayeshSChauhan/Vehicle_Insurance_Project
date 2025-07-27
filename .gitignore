@@ -194,3 +194,7 @@ cython_debug/
 .cursorindexingignore
 
 artifact/
+
+connection_string.txt
+crashcourses.txt
+projectflow.txt
